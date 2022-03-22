@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react-randomquote/static/css/main.f7470c15.css",
+    "main.js": "/react-randomquote/static/js/main.8e706d42.js",
+    "static/media/github.png": "/react-randomquote/static/media/github.389f1e570b67e3e3b2a4.png",
+    "static/media/whiteHeart.png": "/react-randomquote/static/media/whiteHeart.9ca1bc00ffbed5aa0739.png",
+    "static/media/gmail.png": "/react-randomquote/static/media/gmail.168531d6bbe6324895ea.png",
+    "static/media/tele.png": "/react-randomquote/static/media/tele.3f0dc33ab8dd25cfce08.png",
+    "static/media/whatsapp.png": "/react-randomquote/static/media/whatsapp.2494f8b8ccb6c8e83082.png",
+    "static/media/pinkHeart.png": "/react-randomquote/static/media/pinkHeart.7a574a8ab11dd1070266.png",
+    "index.html": "/react-randomquote/index.html",
+    "main.f7470c15.css.map": "/react-randomquote/static/css/main.f7470c15.css.map",
+    "main.8e706d42.js.map": "/react-randomquote/static/js/main.8e706d42.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7470c15.css",
+    "static/js/main.8e706d42.js"
+  ]
+}
