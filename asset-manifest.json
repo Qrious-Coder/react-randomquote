@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-randomquote/static/css/main.f7470c15.css",
-    "main.js": "/react-randomquote/static/js/main.8e706d42.js",
+    "main.js": "/react-randomquote/static/js/main.7150d16f.js",
     "static/media/github.png": "/react-randomquote/static/media/github.389f1e570b67e3e3b2a4.png",
     "static/media/whiteHeart.png": "/react-randomquote/static/media/whiteHeart.9ca1bc00ffbed5aa0739.png",
     "static/media/gmail.png": "/react-randomquote/static/media/gmail.168531d6bbe6324895ea.png",
@@ -10,10 +10,10 @@
     "static/media/pinkHeart.png": "/react-randomquote/static/media/pinkHeart.7a574a8ab11dd1070266.png",
     "index.html": "/react-randomquote/index.html",
     "main.f7470c15.css.map": "/react-randomquote/static/css/main.f7470c15.css.map",
-    "main.8e706d42.js.map": "/react-randomquote/static/js/main.8e706d42.js.map"
+    "main.7150d16f.js.map": "/react-randomquote/static/js/main.7150d16f.js.map"
   },
   "entrypoints": [
     "static/css/main.f7470c15.css",
-    "static/js/main.8e706d42.js"
+    "static/js/main.7150d16f.js"
   ]
 }
